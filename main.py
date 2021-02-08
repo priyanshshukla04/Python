@@ -10,7 +10,7 @@
 # #automate whatsapp message
 # #install pywhatkit package and import it
 # import pywhatkit
-# pywhatkit.sendwhatmsg("+917900331733","moti pagal",19,14)
+# pywhatkit.sendwhatmsg("+91*********","Hey how are you",19,14)
 # #pywhatkit.text_to_handwriting("There is no su password to authenticate to root by default; anything ... Terminal you want the privileges of the non-existent user",rgb=[0,0,0])
 
 import time
